@@ -25,3 +25,7 @@ float ax, ay, az, gr, gp, gy; //Variables to store the accel, gyro and angle val
   
   MPU6050
   https://github.com/alex-mous/MPU6050-C-CPP-Library-for-Raspberry-Pi
+
+
+The accelerometer and gyroscope
+https://www.circuitbread.com/ee-faq/how-do-accelerometers-and-gyroscopes-work
