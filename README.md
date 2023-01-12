@@ -29,3 +29,6 @@ float ax, ay, az, gr, gp, gy; //Variables to store the accel, gyro and angle val
 
 The accelerometer and gyroscope
 https://www.circuitbread.com/ee-faq/how-do-accelerometers-and-gyroscopes-work
+
+
+https://docs.zephyrproject.org/3.2.0/samples/sensor/bmi270/README.html
