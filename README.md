@@ -17,6 +17,8 @@ float ax, ay, az, gr, gp, gy; //Variables to store the accel, gyro and angle val
   # BMI270
   https://www.bosch-sensortec.com/products/motion-sensors/imus/bmi270/
   
+  https://github.com/boschsensortec/BMI270-Sensor-API
+  
   
   SMI230
   https://www.bosch-semiconductors.com/mems-sensors/vehicle-comfort-systems/smi230/
